@@ -3,5 +3,5 @@ This python script will allows you to change into monitor mode and managed mode 
 
 After switching to monitor mode press in terminal --> service NetworkManager restart
 
-Note: Use python3 and don't have then replace all the "input" to "raw_input".
+Note: Use python3 and if don't have then replace all the "input" to "raw_input".
 
